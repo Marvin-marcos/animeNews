@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256040389146",
+    "project_id": "anime-news-app-9bd75",
+    "storage_bucket": "anime-news-app-9bd75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256040389146:android:9dc63a68aea14525a01fa3",
+        "android_client_info": {
+          "package_name": "anime.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0n8MANaLQfO-piDOQS3D7X1kkS0UKZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
