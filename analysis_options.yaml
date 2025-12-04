@@ -1,5 +1,6 @@
 # This file configures the analyzer, which statically analyzes Dart code to
 # check for errors, warnings, and lints.
+<<<<<<< HEAD
 #
 # The issues identified by the analyzer are surfaced in the UI of Dart-enabled
 # IDEs (https://dart.dev/tools#ides-and-editors). The analyzer can also be
@@ -22,6 +23,14 @@ linter:
   # producing the lint.
   rules:
     # avoid_print: false  # Uncomment to disable the `avoid_print` rule
+=======
+
+include: "package:flutter_lints/flutter.yaml"
+
+linter:
+  rules:
+    # avoid_print: false  # Uncomment to disable the `avoid_print` lint rule
+>>>>>>> a113246fd4774b5b4e5c187dc01c24d1760ddc16
     # prefer_single_quotes: true  # Uncomment to enable the `prefer_single_quotes` rule
 
 # Additional information about this file can be found at

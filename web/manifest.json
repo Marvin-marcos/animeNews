@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "flutter_application_1",
     "short_name": "flutter_application_1",
+=======
+    "name": "animenews",
+    "short_name": "animenews",
+>>>>>>> a113246fd4774b5b4e5c187dc01c24d1760ddc16
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

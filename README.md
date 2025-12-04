@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_application_1
+=======
+# animenews
+>>>>>>> a113246fd4774b5b4e5c187dc01c24d1760ddc16
 
 A new Flutter project.
 

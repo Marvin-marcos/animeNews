@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"flutter_application_1", origin, size)) {
+=======
+  if (!window.Create(L"animenews", origin, size)) {
+>>>>>>> a113246fd4774b5b4e5c187dc01c24d1760ddc16
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

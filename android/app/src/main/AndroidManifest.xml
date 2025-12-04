@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="flutter_application_1"
+=======
+        android:label="animenews"
+>>>>>>> a113246fd4774b5b4e5c187dc01c24d1760ddc16
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
