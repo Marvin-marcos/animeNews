@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615363043006",
+    "project_id": "animenews-2217a",
+    "storage_bucket": "animenews-2217a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615363043006:android:4ee207b85204c28f9ac8ef",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL3YWxoYEBpbWDofBtlWvVrqVoMac2Fsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
